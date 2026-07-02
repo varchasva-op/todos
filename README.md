@@ -21,6 +21,23 @@ A clean, RESTful API for managing todos, built with **Node.js** and Express.js. 
 - **Framework:** Express.js
 - **Dev Tools:** Nodemon
 
+- 🎯 What I Learned
+Building RESTful APIs with Express.js
+Handling different HTTP methods (GET, POST, PUT, DELETE)
+Working with route parameters and request bodies
+Implementing proper HTTP status codes
+Input validation and error handling
+Structuring clean API responses
+
+
+🔮 Future Improvements
+Integrate MongoDB for persistent storage
+Add user authentication with JWT
+Implement pagination for GET /todos
+Add search & filter functionality
+Write unit tests with Jest
+Deploy to Render/Railway
+
 
 
 📦 Installation
